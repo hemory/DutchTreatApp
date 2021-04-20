@@ -3,13 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <title>Dutch Treat</title>
+    <link rel="stylesheet" href="css/site.css">
 </head>
 <body>
     <h2>Dutch Treat</h2>
-    <div>
+    <div class="product-info">
         <img src="img/VanGogh.jpg" alt="Pic of VanGogh"/>
         <h3>Mug</h3>
-        <ul>
+        <ul class="product-props">
             <li>Price: $9.99</li>
             <li>Artist: VanGogh</li>
             <li>Title: </li>
@@ -17,26 +18,28 @@
         </ul>
         <button>Buy</button>
     </div>
-
-    <form action="">
-        <label for="">Your Name:</label>
-        <br>
-        <input type="text">
-        <br>
-        <label for="">Email:</label>
-        <br>
-        <input type="email">
-        <br>
-        <label for="">Subject:</label>
-        <br>
-        <input type="text">
-        <br>
-        <label for="">Message:</label>
-        <br>
-        <textarea name="" id="" rows="4"></textarea>
-        <br>
-        <input type="submit" value="Send Message">
-    </form>
+    <div id="the-form">
+        <form action="">
+            <label for="">Your Name:</label>
+            <br>
+            <input type="text">
+            <br>
+            <label for="">Email:</label>
+            <br>
+            <input type="email">
+            <br>
+            <label for="">Subject:</label>
+            <br>
+            <input type="text">
+            <br>
+            <label for="">Message:</label>
+            <br>
+            <textarea name="" id="" rows="4"></textarea>
+            <br>
+            <input class="submit-button" type="submit" value="Send Message">
+        </form>
+    </div>
+    
   
 </body>
 </html>

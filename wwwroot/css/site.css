@@ -1,71 +1,48 @@
-﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-for details on configuring this project to bundle and minify static web assets. */
-
-a.navbar-brand {
-  white-space: normal;
-  text-align: center;
-  word-break: break-all;
+﻿body {
+  font-family: "Segoe UI",serif;
+}
+input,textarea {
+  font-size: 18px;
+  width: 200px;
+}
+input[type=submit] {
+  width: auto;
 }
 
-/* Provide sufficient contrast against white background */
-a {
-  color: #0366d6;
+label {
+  font-size: 16px;
 }
 
-.btn-primary {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+#the-form {
+  background-color: lightgrey;
 }
 
-.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+.submit-button {
+  background-color: green;
+  color: white;
 }
 
-/* Sticky footer styles
--------------------------------------------------- */
-html {
-  font-size: 14px;
-}
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+ul.product-props {
+  font-size: small;
 }
 
-.border-top {
-  border-top: 1px solid #e5e5e5;
-}
-.border-bottom {
-  border-bottom: 1px solid #e5e5e5;
+ul.product-props li {
+  list-style: none;
 }
 
-.box-shadow {
-  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+.product-info {
+  border: 1px solid grey;
+  display: inline-block;
+  padding: 8px 2px;
+  margin: 2px;
+  width: 450px;
+  background-color: lightgrey;
+  border-radius: 5px;
 }
 
-button.accept-policy {
-  font-size: 1rem;
-  line-height: inherit;
-}
-
-/* Sticky footer styles
--------------------------------------------------- */
-html {
-  position: relative;
-  min-height: 100%;
-}
-
-body {
-  /* Margin bottom by footer height */
-  margin-bottom: 60px;
-}
-.footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  white-space: nowrap;
-  line-height: 60px; /* Vertically center the text there */
+.product-info img {
+  margin: 3px;
+  float: left;
+  border: 1px solid black;
+  max-width: 150px;
 }
