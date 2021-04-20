@@ -1,15 +1,20 @@
+
+@{
+    ViewBag.Title = "Homepage";
+}
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Dutch Treat</title>
-    <link rel="stylesheet" href="css/site.css">
-    <script src="lib/jquery/dist/jquery.min.js"></script>
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/css/site.css">
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
 </head>
 <body>
-    <h2>Dutch Treat</h2>
+    <h2>@ViewBag.Title</h2>
     <div class="product-info">
-        <img src="img/VanGogh.jpg" alt="Pic of VanGogh"/>
+        <img src="~/img/VanGogh.jpg" alt="Pic of VanGogh"/>
         <h3>Mug</h3>
         <ul class="product-props">
             <li>Price: $9.99</li>
@@ -41,7 +46,7 @@
         </form>
     </div>
     
-    <script src="js/site.js"></script>
+    <script src="~/js/site.js"></script>
    
 
 </body>

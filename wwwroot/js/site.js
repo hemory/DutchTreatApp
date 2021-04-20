@@ -1,4 +1,18 @@
-﻿// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿
 
-// Write your JavaScript code.
+
+
+var theForm = $("#the-form");
+theForm.hide();
+
+var button = $("#buy-button");
+button.on("click", function (){
+    console.log("Buying item");
+});
+
+
+var productInfo = $(".product-props li");
+productInfo.on("click", function (){
+    console.log($(this).text())
+})
+

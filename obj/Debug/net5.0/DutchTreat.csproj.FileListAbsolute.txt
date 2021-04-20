@@ -37,3 +37,4 @@
 /Users/HPhifer/RiderProjects/DutchTreat/obj/Debug/net5.0/DutchTreat.pdb
 /Users/HPhifer/RiderProjects/DutchTreat/obj/Debug/net5.0/DutchTreat.genruntimeconfig.cache
 /Users/HPhifer/RiderProjects/DutchTreat/obj/Debug/net5.0/DutchTreat.csproj.CopyComplete
+/Users/HPhifer/RiderProjects/DutchTreat/obj/Debug/net5.0/Razor/Views/App/Index.cshtml.g.cs
