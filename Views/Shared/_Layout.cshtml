@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/css/site.css">
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+</head>
+<body>
+<header>
+    <h1>Welcome to Dutch Treat</h1>
+    <menu>
+        <ul class="menu-items">
+            <li><a asp-controller="App" asp-action="Index"></a>Home</li>
+            <li><a asp-controller="App" asp-action="Contact">Contact</a></li>
+            <li><a a asp-controller="App" asp-action="About">About</a></li>
+        </ul>
+    </menu>
+</header>
+
+<section>
+    <h2>@ViewBag.Title</h2>
+    @RenderBody()
+</section>
+
+<footer>Copyright 2017 Dutch Treat LLC</footer>
+<script src="~/js/site.js"></script>
+
+@RenderSection("Scripts", false)
+</body>
+</html>
