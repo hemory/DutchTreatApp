@@ -134,7 +134,6 @@
 /Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
 /Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Xml.dll
 /Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
-/Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/refs/Microsoft.Extensions.DependencyInjection.dll
 /Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
 /Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
 /Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
@@ -192,7 +191,6 @@
 /Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/refs/System.Data.dll
 /Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/refs/System.Diagnostics.Contracts.dll
 /Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/refs/System.Diagnostics.Debug.dll
-/Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/refs/System.Diagnostics.DiagnosticSource.dll
 /Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/refs/System.Diagnostics.EventLog.dll
 /Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/refs/System.Diagnostics.FileVersionInfo.dll
 /Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/refs/System.Diagnostics.Process.dll
@@ -361,3 +359,10 @@
 /Users/HPhifer/RiderProjects/DutchTreat/obj/Debug/net5.0/DutchTreat.MvcApplicationPartsAssemblyInfo.cs
 /Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/package-lock.json
 /Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/package.json
+/Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/Humanizer.dll
+/Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
