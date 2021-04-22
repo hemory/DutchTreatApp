@@ -359,3 +359,5 @@
 /Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
 /Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
 /Users/HPhifer/RiderProjects/DutchTreat/obj/Debug/net5.0/DutchTreat.MvcApplicationPartsAssemblyInfo.cs
+/Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/package-lock.json
+/Users/HPhifer/RiderProjects/DutchTreat/bin/Debug/net5.0/package.json
